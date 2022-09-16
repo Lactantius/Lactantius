@@ -4,7 +4,7 @@
 
 ---
 
-🌱 I want to learn more languages with static typing
+🌱 I want to learn more languages with static typing.
 
 👯 I’m looking to collaborate on any education-related technologies.
 
