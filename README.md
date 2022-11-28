@@ -1,6 +1,8 @@
-## Salve, o munde.
+## Hi, I'm Gerard Keiser
 
-### I design and write full-stack applications.
+I design and write full-stack applications.
+
+You can see my pinned repos below, check out [my portfolio site](https://gerardkeiser.com), or take a look at [my LinkedIn](https://linkedin.com/in/gerard-keiser).
 
 ---
 
