@@ -1,12 +1,16 @@
 ## Salve, o munde.
 
-### I make web apps.
+### I design and write full-stack applications.
 
 ---
 
-🌱 I want to learn more languages with static typing.
+🌱 Currently learning: blockchain technologies and functional techniques.
 
-👯 I’m looking to collaborate on any education-related technologies.
+⏳ Learning next: C#, serverless deployment, and different database types.
+
+⚡ I love static typing and graph databases.
+
+👯 I’m looking to collaborate on anything related to blockchain or education.
 
 💬 Ask me about Latin participles. (I taught it for seven years.)
 
