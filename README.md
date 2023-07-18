@@ -2,7 +2,7 @@
 
 I design, write, and maintain full-stack applications, using legacy GWT, hot new TypeScript libraries, and some stuff in between.
 
-You can see my pinned repos below, check out [my portfolio site](https://gerardkeiser.com), or take a look at [my LinkedIn](https://linkedin.com/in/gerard-keiser).
+You can see my pinned repos below, check out [my portfolio site](https://gerardkeiser.com), or take a look at [my LinkedIn](https://linkedin.com/in/gerard-keiser). Or my Urbit id is `~talsym-norsud`, if you're into that sort of thing.
 
 ---
 
